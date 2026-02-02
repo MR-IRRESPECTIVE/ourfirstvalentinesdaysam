@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 export default function Memories() {
   const driveLink =
-    "https://drive.google.com/drive/folders/YOUR_FOLDER_ID?usp=sharing";
+    "https://drive.google.com/drive/folders/1h8ydWLMi2t5xkXH3E2CAHs7_eNKmqw7j";
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-romantic px-6">
