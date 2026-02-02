@@ -30,18 +30,18 @@ const ScreenThree = ({ onNext }: ScreenThreeProps) => {
         transition={{ delay: 0.4, duration: 0.6, ease: "easeOut" }}
       >
         <h3 className="font-romantic text-2xl text-center text-foreground mb-4">
-          My Dearest Valentine
+          My Dearest Tara
         </h3>
 
         <div className="space-y-4 text-foreground/90 font-soft text-sm leading-relaxed">
           <p>
             From the moment you came into my life, everything changed. The colors
-            became brighter, the music sweeter, and every day felt like a gift
-            wrapped in your smile.
+            became brighter, the music sweeter, and every day I cherished waking up
+            and seeing you smile.
           </p>
 
           <p>
-            You are not just my Valentine — you are my favorite hello and my
+            You are not just my Valentine — you are my favorite notification and my
             hardest goodbye. You are the reason I believe in magic, because what
             we have feels nothing short of magical.
           </p>
